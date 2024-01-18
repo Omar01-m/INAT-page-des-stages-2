@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+header {
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    background-color: #005D14    ; 
+    height: 80px;
+    padding-right:  10rem;
+    color: white; 
+    margin-bottom: 50px;
+  }
+  .search-input {
+    margin-left: 100px;
+    border-radius: 800px;
+    border: none;
+  }
+.select-place
+{
+  border-radius: 8px;
+}
+.search-button
+{
+  border-radius: 8px;
+}
